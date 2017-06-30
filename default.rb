@@ -1,3 +1,3 @@
 package 'httpd'do
-	action :restart
+	action :enable
 end
