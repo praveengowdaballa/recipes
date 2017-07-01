@@ -1,7 +1,7 @@
 package 'httpd'do
-	action :restart
+	action :install
 end
 
 package 'httpd'do
-	action :enable
+	action :start
 end
