@@ -3,5 +3,5 @@ package 'httpd'do
 end
 
 package 'httpd'do
-	action :start
+	action :enable
 end
